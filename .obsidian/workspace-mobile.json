@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "46095cd050cd8931",
+    "type": "split",
+    "children": [
+      {
+        "id": "926671372a297c24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7699bd8f93e2d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Html/Pemrograman Web/REMEDIAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65c32d217da0f3fa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12900605554f677b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5078e160cb16b40a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6dcd6e350ca326f1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "55427a5c1f60fe79",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "d15a7f747a431f91",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cd757f3fce07b8ef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba5a37ab744b39a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Html/Pemrograman Web/REMEDIAL.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1427c2f971ffe6d0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Html/Pemrograman Web/REMEDIAL.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bc47ef66d562a3a7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Html/Pemrograman Web/REMEDIAL.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "12900605554f677b",
+  "lastOpenFiles": [
+    "Pemrograman Web/hsudnnf",
+    "Pemrograman Web/test.txt",
+    "Pemrograman Web/tes",
+    "Pesona indonesia/Pesona indonesia.md",
+    "Html/aset/Screenshot_20240520-115740_Acode.jpg",
+    "Html/aset/Screenshot_20240520-115731_Acode.jpg",
+    "Html/aset/Screenshot_20240520-115728_Acode.jpg",
+    "Pesona indonesia/Aset",
+    "Pesona indonesia/Aset/Untitled.md",
+    "Pemrograman Web/Aset 1",
+    "Pesona indonesia/Aset.md",
+    "Pemrograman Web/Aset/Image.jpg",
+    "PHP/Php.md",
+    "Pesona indonesia",
+    "Html/Basis Data/Catatan/Pengenalan basis data.md",
+    "Html/Basis Data/Catatan/Data Base.md",
+    "Html/Basis Data/Aset/Screenshot_20240130-153727_Termux 1 1.jpg",
+    "Html/Basis Data/Aset/Screenshot_20240130-153727_Termux 1.jpg",
+    "Html/Basis Data/Aset/Screenshot_20240130-153727_Termux.jpg",
+    "Html/Basis Data/Aset/Screenshot_20240130-153348_Termux.jpg",
+    "Html/Basis Data/Aset/Screenshot_20240130-153845_Termux.jpg",
+    "Html/Basis Data/Aset/Screenshot_20240213-141524_Termux.jpg",
+    "Html/Basis Data/Aset/Untitled 1.loom",
+    "Html/Pemrograman Web/Catatan/Pertemuan 1.md",
+    "Html/Pemrograman Web/Catatan/pengantar web.md",
+    "Html/Pemrograman Web/Catatan/Form.md",
+    "Html/Pemrograman Web/Catatan/Materi html (5).md",
+    "Html/Pemrograman Web/Aset/Screenshot_20240129-132441_Acode.jpg.md",
+    "Html/Pemrograman Web/Aset/Screenshot_20240129-133923_Acode.jpg.md",
+    "Html/Spaces/#DIV/#DIV.md",
+    "Html/Basis Data/Catatan",
+    "Html/Basis Data/Aset",
+    "Html/Pemrograman Web/Pengenalan CSS.md",
+    "Html/Pemrograman Web/REMEDIAL.md",
+    "Html/Pemrograman Web/Catatan",
+    "Html/Pemrograman Web/Aset",
+    "Html/Pemrograman Web/Div_span .md",
+    "Html/aset/cssss6.png.md",
+    "Html/Untitled.md",
+    "Obsidisn/Basis Data/Catatan/Pengenalan basis data.md",
+    "Obsidisn/Basis Data/Catatan/Data Base.md",
+    "Obsidisn/Pemrograman Web/Catatan/Pertemuan 1.md",
+    "Obsidisn/Pemrograman Web/Catatan/pengantar web.md",
+    "Obsidisn/Pemrograman Web/Catatan/Form.md",
+    "Obsidisn/Pemrograman Web/Catatan/Materi html (5).md",
+    "Obsidisn/Pemrograman Web/Aset/Screenshot_20240129-132441_Acode.jpg.md"
+  ]
+}
