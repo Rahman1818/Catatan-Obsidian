@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Html/Pemrograman Web/REMEDIAL.md",
+                "file": "Basis Data/Catatan/Select Lanjutan.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Html/Pemrograman Web/REMEDIAL.md",
+            "file": "Basis Data/Catatan/Select Lanjutan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Html/Pemrograman Web/REMEDIAL.md",
+            "file": "Basis Data/Catatan/Select Lanjutan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Html/Pemrograman Web/REMEDIAL.md"
+            "file": "Basis Data/Catatan/Select Lanjutan.md"
           }
         }
       }
@@ -139,8 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12900605554f677b",
+  "active": "c7699bd8f93e2d17",
   "lastOpenFiles": [
+    "Basis Data/Catatan/Alter.md",
+    "Html/Pemrograman Web/REMEDIAL.md",
     "Pemrograman Web/hsudnnf",
     "Pemrograman Web/test.txt",
     "Pemrograman Web/tes",
@@ -174,9 +176,7 @@
     "Html/Basis Data/Catatan",
     "Html/Basis Data/Aset",
     "Html/Pemrograman Web/Pengenalan CSS.md",
-    "Html/Pemrograman Web/REMEDIAL.md",
     "Html/Pemrograman Web/Catatan",
-    "Html/Pemrograman Web/Aset",
     "Html/Pemrograman Web/Div_span .md",
     "Html/aset/cssss6.png.md",
     "Html/Untitled.md",
