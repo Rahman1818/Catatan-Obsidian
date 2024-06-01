@@ -19,7 +19,7 @@ ALTER TABLE daftar_mobil ADD batas_peminjaman VARCHAR(10) AFTER peminjam;
 ### Kesimpulan
 ALTER TABLE mobil ADD batas_peminjaman VARCHAR(10) AFTER peminjam; digunakan untuk menambahkan kolom baru bernama batas_peminjaman dengan tipe data VARCHAR(10) ke tabel mobil, diletakkan setelah kolom peminjam.
 ### Hasil
-![gambar](Aset/Alter/IMG1.png)
+![gambar](Aset1/Alter/IMG1.png.)
 
 ## Query Tambahan
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis Data/Catatan/Select Lanjutan.md",
+                "file": "PRAKTIKUM/PRAKTIKUM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis Data/Catatan/Select Lanjutan.md",
+            "file": "PRAKTIKUM/PRAKTIKUM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis Data/Catatan/Select Lanjutan.md",
+            "file": "PRAKTIKUM/PRAKTIKUM.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis Data/Catatan/Select Lanjutan.md"
+            "file": "PRAKTIKUM/PRAKTIKUM.md"
           }
         }
       }
@@ -142,50 +142,49 @@
   "active": "c7699bd8f93e2d17",
   "lastOpenFiles": [
     "Basis Data/Catatan/Alter.md",
+    "PRAKTIKUM/PRAKTIKUM.md",
+    "Aset1/Alter/IMG1.png..md",
+    "Aset1",
+    "Aset1/Alter",
+    "Basis Data/Aset/IMG-20240116-WA0006.jpg",
+    "Basis Data/Aset/Aset1/Alter/IMG3.png",
+    "Basis Data/Aset/Aset1/Alter/IMG7.png",
+    "Basis Data/Aset/Aset1/Alter/IMG4.png",
+    "Basis Data/Aset/Aset1/Alter/IMG8.png",
+    "Basis Data/Aset/Aset1/Alter/IMG1.png",
+    "Basis Data/Aset/Aset1/Alter/IMG2.png",
+    "Basis Data/Aset/Aset1/Alter/IMG5.png",
+    "Basis Data/Aset/Aset1/Alter/IMG6.png",
+    "Basis Data/Aset/Aset1/IMG6/IMG6_6.png",
+    "Basis Data/Aset/Aset1/Alter",
+    "Basis Data/Aset/Aset1/IMG6",
+    "Basis Data/Aset/Aset1/IMG3",
+    "Basis Data/Aset/Aset1/IMG8",
+    "Basis Data/Aset/Aset1/IMG7",
+    "Basis Data/Aset/Aset1/IMG2",
+    "Basis Data/Aset/Aset1/IMG1",
+    "Basis Data/Aset/Aset1/IMG4",
+    "Aset1/IMG1.png..md",
+    "Basis Data/Catatan/Data Base.md",
+    "Basis Data/Catatan/PEMBELAJARAN 4.md",
+    "PHP MysQl/PHP MYSQL.md",
+    "PHP MysQl/PHP/Php/PHP Dasar.md",
+    "Basis Data/Catatan/PEMBELAJARAN 5.md",
+    "Untitled.md",
+    "Basis Data/Catatan/Select Lanjutan.md",
+    "Css/Pengenalan CSS-1.md",
+    "Basis Data/Catatan/Pengenalan basis data.md",
+    "GAMBARBASDAT/notbetween.png.md",
     "Html/Pemrograman Web/REMEDIAL.md",
-    "Pemrograman Web/hsudnnf",
-    "Pemrograman Web/test.txt",
-    "Pemrograman Web/tes",
     "Pesona indonesia/Pesona indonesia.md",
-    "Html/aset/Screenshot_20240520-115740_Acode.jpg",
-    "Html/aset/Screenshot_20240520-115731_Acode.jpg",
-    "Html/aset/Screenshot_20240520-115728_Acode.jpg",
-    "Pesona indonesia/Aset",
     "Pesona indonesia/Aset/Untitled.md",
-    "Pemrograman Web/Aset 1",
     "Pesona indonesia/Aset.md",
-    "Pemrograman Web/Aset/Image.jpg",
     "PHP/Php.md",
-    "Pesona indonesia",
     "Html/Basis Data/Catatan/Pengenalan basis data.md",
     "Html/Basis Data/Catatan/Data Base.md",
-    "Html/Basis Data/Aset/Screenshot_20240130-153727_Termux 1 1.jpg",
-    "Html/Basis Data/Aset/Screenshot_20240130-153727_Termux 1.jpg",
-    "Html/Basis Data/Aset/Screenshot_20240130-153727_Termux.jpg",
-    "Html/Basis Data/Aset/Screenshot_20240130-153348_Termux.jpg",
-    "Html/Basis Data/Aset/Screenshot_20240130-153845_Termux.jpg",
-    "Html/Basis Data/Aset/Screenshot_20240213-141524_Termux.jpg",
-    "Html/Basis Data/Aset/Untitled 1.loom",
     "Html/Pemrograman Web/Catatan/Pertemuan 1.md",
     "Html/Pemrograman Web/Catatan/pengantar web.md",
     "Html/Pemrograman Web/Catatan/Form.md",
-    "Html/Pemrograman Web/Catatan/Materi html (5).md",
-    "Html/Pemrograman Web/Aset/Screenshot_20240129-132441_Acode.jpg.md",
-    "Html/Pemrograman Web/Aset/Screenshot_20240129-133923_Acode.jpg.md",
-    "Html/Spaces/#DIV/#DIV.md",
-    "Html/Basis Data/Catatan",
-    "Html/Basis Data/Aset",
-    "Html/Pemrograman Web/Pengenalan CSS.md",
-    "Html/Pemrograman Web/Catatan",
-    "Html/Pemrograman Web/Div_span .md",
-    "Html/aset/cssss6.png.md",
-    "Html/Untitled.md",
-    "Obsidisn/Basis Data/Catatan/Pengenalan basis data.md",
-    "Obsidisn/Basis Data/Catatan/Data Base.md",
-    "Obsidisn/Pemrograman Web/Catatan/Pertemuan 1.md",
-    "Obsidisn/Pemrograman Web/Catatan/pengantar web.md",
-    "Obsidisn/Pemrograman Web/Catatan/Form.md",
-    "Obsidisn/Pemrograman Web/Catatan/Materi html (5).md",
-    "Obsidisn/Pemrograman Web/Aset/Screenshot_20240129-132441_Acode.jpg.md"
+    "Html/Pemrograman Web/Catatan/Materi html (5).md"
   ]
 }
