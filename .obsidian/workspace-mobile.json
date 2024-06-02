@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRAKTIKUM/PRAKTIKUM.md",
+                "file": "REMEDIAL BASIS DATA/Remedial.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PRAKTIKUM/PRAKTIKUM.md",
+            "file": "REMEDIAL BASIS DATA/Remedial.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PRAKTIKUM/PRAKTIKUM.md",
+            "file": "REMEDIAL BASIS DATA/Remedial.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PRAKTIKUM/PRAKTIKUM.md"
+            "file": "REMEDIAL BASIS DATA/Remedial.md"
           }
         }
       }
@@ -141,21 +141,26 @@
   },
   "active": "c7699bd8f93e2d17",
   "lastOpenFiles": [
-    "Basis Data/Catatan/Alter.md",
+    "Html/aset/Screenshot_20240602-112811_Termux.jpg",
+    "Html/aset/Screenshot_20240602-111557_Termux.jpg",
+    "Html/aset/Screenshot_20240602-111147_Termux.jpg",
+    "Html/aset/Screenshot_20240602-105908_Termux.jpg",
+    "Html/aset/Screenshot_20240602-105527_Termux 1.jpg",
+    "Html/aset/Screenshot_20240602-105527_Termux.jpg",
+    "Html/aset/Screenshot_20240602-104816_Termux.jpg",
+    "Html/aset/Screenshot_20240602-104340_Termux.jpg",
+    "Aset.md",
+    "Basis Data/Aset/Screenshot_20240423-134331_Termux.jpg",
+    "REMEDIAL BASIS DATA/Remedial.md",
+    "REMEDIAL BASIS DATA/Aset.md",
+    "Html/aset/Screenshot_20240602-103545_Termux.jpg",
+    "Html/aset/Screenshot_20240602-102830_Termux 1.jpg",
     "PRAKTIKUM/PRAKTIKUM.md",
+    "REMEDIAL BASIS DATA",
+    "Basis Data/Catatan/Alter.md",
     "Aset1/Alter/IMG1.png..md",
     "Aset1",
     "Aset1/Alter",
-    "Basis Data/Aset/IMG-20240116-WA0006.jpg",
-    "Basis Data/Aset/Aset1/Alter/IMG3.png",
-    "Basis Data/Aset/Aset1/Alter/IMG7.png",
-    "Basis Data/Aset/Aset1/Alter/IMG4.png",
-    "Basis Data/Aset/Aset1/Alter/IMG8.png",
-    "Basis Data/Aset/Aset1/Alter/IMG1.png",
-    "Basis Data/Aset/Aset1/Alter/IMG2.png",
-    "Basis Data/Aset/Aset1/Alter/IMG5.png",
-    "Basis Data/Aset/Aset1/Alter/IMG6.png",
-    "Basis Data/Aset/Aset1/IMG6/IMG6_6.png",
     "Basis Data/Aset/Aset1/Alter",
     "Basis Data/Aset/Aset1/IMG6",
     "Basis Data/Aset/Aset1/IMG3",
@@ -163,14 +168,12 @@
     "Basis Data/Aset/Aset1/IMG7",
     "Basis Data/Aset/Aset1/IMG2",
     "Basis Data/Aset/Aset1/IMG1",
-    "Basis Data/Aset/Aset1/IMG4",
     "Aset1/IMG1.png..md",
     "Basis Data/Catatan/Data Base.md",
     "Basis Data/Catatan/PEMBELAJARAN 4.md",
     "PHP MysQl/PHP MYSQL.md",
     "PHP MysQl/PHP/Php/PHP Dasar.md",
     "Basis Data/Catatan/PEMBELAJARAN 5.md",
-    "Untitled.md",
     "Basis Data/Catatan/Select Lanjutan.md",
     "Css/Pengenalan CSS-1.md",
     "Basis Data/Catatan/Pengenalan basis data.md",
@@ -183,8 +186,6 @@
     "Html/Basis Data/Catatan/Pengenalan basis data.md",
     "Html/Basis Data/Catatan/Data Base.md",
     "Html/Pemrograman Web/Catatan/Pertemuan 1.md",
-    "Html/Pemrograman Web/Catatan/pengantar web.md",
-    "Html/Pemrograman Web/Catatan/Form.md",
-    "Html/Pemrograman Web/Catatan/Materi html (5).md"
+    "Html/Pemrograman Web/Catatan/pengantar web.md"
   ]
 }
