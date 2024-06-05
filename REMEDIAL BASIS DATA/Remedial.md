@@ -12,7 +12,6 @@ CREATE TABLE tabel_guru (
 ```
 
 ## HASIL 
-
 ![[Screenshot_20240602-112811_Termux.jpg]]
 
 ## ANALISIS 
@@ -58,7 +57,6 @@ VALUES
 ```
 ## HASIL 
 ![[Screenshot_20240602-102830_Termux 1.jpg]]
-
 ## ANALISIS 
 - `CREATE TABLE tabel_guru`: Membuat tabel `tabel_guru` dengan kolom-kolom berikut:
     - `id_guru`: Tipe data `INT` dengan auto increment yang berfungsi sebagai primary key.

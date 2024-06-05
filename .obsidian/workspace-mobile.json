@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REMEDIAL BASIS DATA/Remedial.md",
+                "file": "EKSPLORASI CSS/Eksplorasi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "REMEDIAL BASIS DATA/Remedial.md",
+            "file": "EKSPLORASI CSS/Eksplorasi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "REMEDIAL BASIS DATA/Remedial.md",
+            "file": "EKSPLORASI CSS/Eksplorasi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "REMEDIAL BASIS DATA/Remedial.md"
+            "file": "EKSPLORASI CSS/Eksplorasi.md"
           }
         }
       }
@@ -141,20 +141,38 @@
   },
   "active": "c7699bd8f93e2d17",
   "lastOpenFiles": [
-    "Html/aset/Screenshot_20240602-112811_Termux.jpg",
-    "Html/aset/Screenshot_20240602-111557_Termux.jpg",
-    "Html/aset/Screenshot_20240602-111147_Termux.jpg",
-    "Html/aset/Screenshot_20240602-105908_Termux.jpg",
-    "Html/aset/Screenshot_20240602-105527_Termux 1.jpg",
-    "Html/aset/Screenshot_20240602-105527_Termux.jpg",
-    "Html/aset/Screenshot_20240602-104816_Termux.jpg",
-    "Html/aset/Screenshot_20240602-104340_Termux.jpg",
+    "Aset2/1png..md",
+    "EKSPLORASI CSS/Eksplorasi.md",
+    "Aset2",
     "Aset.md",
-    "Basis Data/Aset/Screenshot_20240423-134331_Termux.jpg",
+    "EKSPLORASI CSS/Aset2/1png.jpg",
+    "Pemrograman Web/Aset/Image.jpg",
+    "Pemrograman Web/Aset/IMG-20240117-WA0002.jpg",
+    "Pemrograman Web/Aset/Screenshot_20240117-135709_Acode 1.jpg",
+    "Pemrograman Web/Aset/Screenshot_20240117-144258_Acode.jpg",
+    "Pemrograman Web/Aset/Screenshot_20240124-092427_Acode.jpg",
+    "Pemrograman Web/Aset/Screenshot_20240124-110822_Acode.jpg",
+    "Pemrograman Web/Aset/Screenshot_20240124-111255_Acode.jpg",
+    "Pemrograman Web/Aset/Screenshot_20240124-125023_Acode.jpg",
+    "Pemrograman Web/Aset/Screenshot_20240129-114941_Acode.jpg",
+    "Pemrograman Web/Aset/Screenshot_20240129-132441_Acode.jpg.md",
+    "Pemrograman Web/Aset/Screenshot_20240129-133923_Acode.jpg.md",
+    "Html/Untitled.md",
+    "PHP MysQl/PHP/Php/PHP Dasar.md",
+    "EKSPLORASI CSS/Aset2",
+    "EKSPLORASI CSS",
     "REMEDIAL BASIS DATA/Remedial.md",
+    "Html/Spaces/#DIV/#DIV.md",
+    "GAMBARBASDAT1.zip",
+    "GAMBARBASDAT",
+    "GAMBARBASDAT/notbetween.png.md",
+    "Html/Pemrograman Web/Catatan/Form.md",
+    "Html/aset/cssss6.png.md",
+    "Aset remed basdat",
+    "REMEDIAL BASIS DATA/Untitled.md",
+    "Pemrograman Web/REMEDIAL.md",
+    "Pesona indonesia/Pesona indonesia.md",
     "REMEDIAL BASIS DATA/Aset.md",
-    "Html/aset/Screenshot_20240602-103545_Termux.jpg",
-    "Html/aset/Screenshot_20240602-102830_Termux 1.jpg",
     "PRAKTIKUM/PRAKTIKUM.md",
     "REMEDIAL BASIS DATA",
     "Basis Data/Catatan/Alter.md",
@@ -162,30 +180,12 @@
     "Aset1",
     "Aset1/Alter",
     "Basis Data/Aset/Aset1/Alter",
-    "Basis Data/Aset/Aset1/IMG6",
-    "Basis Data/Aset/Aset1/IMG3",
-    "Basis Data/Aset/Aset1/IMG8",
-    "Basis Data/Aset/Aset1/IMG7",
-    "Basis Data/Aset/Aset1/IMG2",
-    "Basis Data/Aset/Aset1/IMG1",
     "Aset1/IMG1.png..md",
     "Basis Data/Catatan/Data Base.md",
     "Basis Data/Catatan/PEMBELAJARAN 4.md",
     "PHP MysQl/PHP MYSQL.md",
-    "PHP MysQl/PHP/Php/PHP Dasar.md",
     "Basis Data/Catatan/PEMBELAJARAN 5.md",
     "Basis Data/Catatan/Select Lanjutan.md",
-    "Css/Pengenalan CSS-1.md",
-    "Basis Data/Catatan/Pengenalan basis data.md",
-    "GAMBARBASDAT/notbetween.png.md",
-    "Html/Pemrograman Web/REMEDIAL.md",
-    "Pesona indonesia/Pesona indonesia.md",
-    "Pesona indonesia/Aset/Untitled.md",
-    "Pesona indonesia/Aset.md",
-    "PHP/Php.md",
-    "Html/Basis Data/Catatan/Pengenalan basis data.md",
-    "Html/Basis Data/Catatan/Data Base.md",
-    "Html/Pemrograman Web/Catatan/Pertemuan 1.md",
-    "Html/Pemrograman Web/Catatan/pengantar web.md"
+    "Css/Pengenalan CSS-1.md"
   ]
 }
