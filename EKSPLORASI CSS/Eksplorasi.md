@@ -169,8 +169,7 @@ Tampilan web yang di dalam nya ada atribut z-index
 ```
 
 ## HASIL 
-![Gambar](Aset2/1png.JPG)
-
+![Gambar](Aset2/1png.jpg )
 ## ANALISIS 
 ### Struktur HTML
 
