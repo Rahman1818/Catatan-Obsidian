@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis Data/Catatan/Pengenalan basis data.md",
+                "file": "Basis Data/Catatan/Select Lanjutan.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis Data/Catatan/Pengenalan basis data.md",
+            "file": "Basis Data/Catatan/Select Lanjutan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis Data/Catatan/Pengenalan basis data.md",
+            "file": "Basis Data/Catatan/Select Lanjutan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis Data/Catatan/Pengenalan basis data.md"
+            "file": "Basis Data/Catatan/Select Lanjutan.md"
           }
         }
       }
@@ -141,6 +141,7 @@
   },
   "active": "c7699bd8f93e2d17",
   "lastOpenFiles": [
+    "Basis Data/Catatan/Pengenalan basis data.md",
     "Basis Data/Catatan/Data Base.md",
     "Basis Data/Catatan/PEMBELAJARAN 4.md",
     "Basis Data/Aset/Img.jpg",
