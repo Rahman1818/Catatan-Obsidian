@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EKSPLORASI CSS/Eksplorasi.md",
+                "file": "PHP MysQl/PHP/Php/PHP Dasar.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EKSPLORASI CSS/Eksplorasi.md",
+            "file": "PHP MysQl/PHP/Php/PHP Dasar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "EKSPLORASI CSS/Eksplorasi.md",
+            "file": "PHP MysQl/PHP/Php/PHP Dasar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "EKSPLORASI CSS/Eksplorasi.md"
+            "file": "PHP MysQl/PHP/Php/PHP Dasar.md"
           }
         }
       }
@@ -141,50 +141,51 @@
   },
   "active": "c7699bd8f93e2d17",
   "lastOpenFiles": [
-    "EKSPLORASI CSS/Aset2/1png.jpg",
+    "PHP MysQl/PHP MYSQL.md",
+    "Basis Data/Catatan/Select Lanjutan.md",
+    "Aset1/IMG4..md",
+    "Aset1/IMG4(2.md",
+    "Basis Data/Catatan/Alter.md",
+    "Basis Data/Catatan/Data Base.md",
+    "Basis Data/Catatan/PEMBELAJARAN 5.md",
+    "Basis Data/Catatan/PEMBELAJARAN 4.md",
+    "Basis Data/Aset/Aset2/notbetween.png",
+    "Basis Data/Aset/Aset1/Alter/IMG1.png",
+    "Aset1/Alter/IMG1.png..md",
+    "Aset1",
+    "Aset1/Alter",
+    "Basis Data/Aset/Aset1/IMG1/IMG1(1).jpg",
+    "Basis Data/Aset/Aset2/and.png",
+    "REMEDIAL BASIS DATA/Remedial.md",
+    "Basis Data/Aset/Aset2/ASC.png",
+    "Basis Data/Aset/Aset2/AS.png",
+    "Basis Data/Aset/Aset2/BETWEENAND.png",
+    "Basis Data/Aset/Aset2/DESC.png",
+    "Basis Data/Aset/Aset2/insert1.png",
+    "Basis Data/Aset/Aset2/delete.png",
+    "Basis Data/Aset/Aset2",
+    "Basis Data/Aset/GAMBARBASDAT",
+    "PRAKTIKUM/PRAKTIKUM8.zip",
     "EKSPLORASI CSS/Eksplorasi.md",
     "Aset2/1png..md",
     "Aset2",
     "Aset.md",
-    "Pemrograman Web/Aset/Image.jpg",
-    "Pemrograman Web/Aset/IMG-20240117-WA0002.jpg",
-    "Pemrograman Web/Aset/Screenshot_20240117-135709_Acode 1.jpg",
-    "Pemrograman Web/Aset/Screenshot_20240117-144258_Acode.jpg",
-    "Pemrograman Web/Aset/Screenshot_20240124-092427_Acode.jpg",
-    "Pemrograman Web/Aset/Screenshot_20240124-110822_Acode.jpg",
-    "Pemrograman Web/Aset/Screenshot_20240124-111255_Acode.jpg",
-    "Pemrograman Web/Aset/Screenshot_20240124-125023_Acode.jpg",
-    "Pemrograman Web/Aset/Screenshot_20240129-114941_Acode.jpg",
     "Pemrograman Web/Aset/Screenshot_20240129-132441_Acode.jpg.md",
     "Pemrograman Web/Aset/Screenshot_20240129-133923_Acode.jpg.md",
     "Html/Untitled.md",
     "PHP MysQl/PHP/Php/PHP Dasar.md",
     "EKSPLORASI CSS/Aset2",
     "EKSPLORASI CSS",
-    "REMEDIAL BASIS DATA/Remedial.md",
     "Html/Spaces/#DIV/#DIV.md",
     "GAMBARBASDAT1.zip",
     "GAMBARBASDAT",
     "GAMBARBASDAT/notbetween.png.md",
     "Html/Pemrograman Web/Catatan/Form.md",
     "Html/aset/cssss6.png.md",
-    "Aset remed basdat",
     "REMEDIAL BASIS DATA/Untitled.md",
     "Pemrograman Web/REMEDIAL.md",
     "Pesona indonesia/Pesona indonesia.md",
     "REMEDIAL BASIS DATA/Aset.md",
-    "PRAKTIKUM/PRAKTIKUM.md",
-    "REMEDIAL BASIS DATA",
-    "Basis Data/Catatan/Alter.md",
-    "Aset1/Alter/IMG1.png..md",
-    "Aset1",
-    "Aset1/Alter",
-    "Basis Data/Aset/Aset1/Alter",
-    "Aset1/IMG1.png..md",
-    "Basis Data/Catatan/Data Base.md",
-    "Basis Data/Catatan/PEMBELAJARAN 4.md",
-    "PHP MysQl/PHP MYSQL.md",
-    "Basis Data/Catatan/PEMBELAJARAN 5.md",
-    "Basis Data/Catatan/Select Lanjutan.md"
+    "PRAKTIKUM/PRAKTIKUM.md"
   ]
 }
