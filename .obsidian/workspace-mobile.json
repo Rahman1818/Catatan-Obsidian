@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP MysQl/PHP/Php/PHP Dasar.md",
+                "file": "Basis Data/Catatan/Pengenalan basis data.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PHP MysQl/PHP/Php/PHP Dasar.md",
+            "file": "Basis Data/Catatan/Pengenalan basis data.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PHP MysQl/PHP/Php/PHP Dasar.md",
+            "file": "Basis Data/Catatan/Pengenalan basis data.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PHP MysQl/PHP/Php/PHP Dasar.md"
+            "file": "Basis Data/Catatan/Pengenalan basis data.md"
           }
         }
       }
@@ -141,14 +141,16 @@
   },
   "active": "c7699bd8f93e2d17",
   "lastOpenFiles": [
+    "Basis Data/Catatan/Data Base.md",
+    "Basis Data/Catatan/PEMBELAJARAN 4.md",
+    "Basis Data/Aset/Img.jpg",
+    "PHP MysQl/PHP/Php/PHP Dasar.md",
     "PHP MysQl/PHP MYSQL.md",
     "Basis Data/Catatan/Select Lanjutan.md",
     "Aset1/IMG4..md",
     "Aset1/IMG4(2.md",
     "Basis Data/Catatan/Alter.md",
-    "Basis Data/Catatan/Data Base.md",
     "Basis Data/Catatan/PEMBELAJARAN 5.md",
-    "Basis Data/Catatan/PEMBELAJARAN 4.md",
     "Basis Data/Aset/Aset2/notbetween.png",
     "Basis Data/Aset/Aset1/Alter/IMG1.png",
     "Aset1/Alter/IMG1.png..md",
@@ -162,7 +164,6 @@
     "Basis Data/Aset/Aset2/BETWEENAND.png",
     "Basis Data/Aset/Aset2/DESC.png",
     "Basis Data/Aset/Aset2/insert1.png",
-    "Basis Data/Aset/Aset2/delete.png",
     "Basis Data/Aset/Aset2",
     "Basis Data/Aset/GAMBARBASDAT",
     "PRAKTIKUM/PRAKTIKUM8.zip",
@@ -173,7 +174,6 @@
     "Pemrograman Web/Aset/Screenshot_20240129-132441_Acode.jpg.md",
     "Pemrograman Web/Aset/Screenshot_20240129-133923_Acode.jpg.md",
     "Html/Untitled.md",
-    "PHP MysQl/PHP/Php/PHP Dasar.md",
     "EKSPLORASI CSS/Aset2",
     "EKSPLORASI CSS",
     "Html/Spaces/#DIV/#DIV.md",
@@ -185,7 +185,6 @@
     "REMEDIAL BASIS DATA/Untitled.md",
     "Pemrograman Web/REMEDIAL.md",
     "Pesona indonesia/Pesona indonesia.md",
-    "REMEDIAL BASIS DATA/Aset.md",
-    "PRAKTIKUM/PRAKTIKUM.md"
+    "REMEDIAL BASIS DATA/Aset.md"
   ]
 }

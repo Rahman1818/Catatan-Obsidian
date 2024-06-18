@@ -12,7 +12,7 @@ kumpulan data yang terorganisir, yang umumnya disimpan dan diakses secara elektr
 
 basis data umumnya di gambarkan sebagai tabung yang berisi data data,yang dimana data tersebut berbentuk tabel contoh nya sebagai berikut :
 
-![[IMG-20240116-WA0006.jpg]]
+![[Img.jpg]]
 
 ## contoh tabel
 | NIM | NAMA   | JK | Umur |
