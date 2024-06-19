@@ -12,8 +12,8 @@ CREATE TABLE tabel_guru (
 ```
 
 ## HASIL 
-![[Screenshot_20240602-112811_Termux.jpg]]
-
+![GAMBAR]( Aset11/IMG7.jpg)
+ 
 ## ANALISIS 
 
 1. **CREATE TABLE tabel_guru:**
@@ -56,8 +56,9 @@ VALUES
 
 ```
 ## HASIL 
-![[Screenshot_20240602-102830_Termux 1.jpg]]
-## ANALISIS 
+![GAMBAR](Aset11/IMG1.jpg )
+
+ANALISIS 
 - `CREATE TABLE tabel_guru`: Membuat tabel `tabel_guru` dengan kolom-kolom berikut:
     - `id_guru`: Tipe data `INT` dengan auto increment yang berfungsi sebagai primary key.
     - `nama_depan`: Tipe data `VARCHAR(50)`, tidak boleh kosong (`NOT NULL`).
@@ -73,7 +74,7 @@ VALUES
 
 ```
 ## HASIL 
-![[Screenshot_20240602-103545_Termux.jpg]]
+![GAMBAR](Aset11/IMG2.jpg )
 
 ## ANALISIS 
 - `INSERT INTO tabel_guru (nama_depan, nama_belakang, mapel, usia) VALUES ...`: Menambahkan satu baris data baru ke dalam tabel `tabel_guru`.
@@ -103,7 +104,7 @@ SELECT * FROM tabel_guru;
 
 ```
 ## HASIL 
-![[Screenshot_20240602-104816_Termux.jpg]]
+![[REMEDIAL BASIS DATA/Aset11/IMG3.jpg]]
 ## ANALISIS 
 - `UPDATE tabel_guru SET nama_belakang = 'Ganteng' WHERE id_guru = 3;`: Mengubah nilai `nama_belakang` menjadi 'Ganteng' untuk baris yang memiliki `id_guru` = 3.
 - `SELECT * FROM tabel_guru;`: Menampilkan semua data dalam tabel `tabel_guru` untuk memverifikasi perubahan.
@@ -146,7 +147,7 @@ SELECT CONCAT(nama_depan, ' ', nama_belakang) AS nama_lengkap FROM tabel_guru;
 
 ```
 ## HASIL 
-![[Screenshot_20240602-111147_Termux.jpg]]
+![[REMEDIAL BASIS DATA/Aset11/IMG5.jpg]]
 ## ANALISIS 
 - **CONCAT**: Fungsi ini digunakan untuk menggabungkan beberapa string menjadi satu string. Dalam kasus ini, menggabungkan kolom `nama_depan` dan `nama_belakang` dengan tambahan spasi (' ') di antara keduanya.
 - **Alias (AS nama_lengkap)**: Memberikan nama sementara `nama_lengkap` pada hasil gabungan tersebut.
@@ -163,7 +164,7 @@ LIMIT 1;
 ```
 
 ## HASIL 
-![[Screenshot_20240602-111557_Termux.jpg]]
+![[REMEDIAL BASIS DATA/Aset11/IMG6.jpg]]
 
 ## ANALISIS 
 
